@@ -3,26 +3,10 @@ description: A collection of romantic poems and messages for Monira
 baseurl: "/monira-love-letters"
 url: "https://fahimshahir.github.io"
 theme: minima
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
 
 defaults:
   -
     scope:
       path: ""
-    values:
-      layout: "default"
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-  -
-    scope:
-      path: ""
-      type: "pages"
     values:
       layout: "default" 

@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: মনিরার জন্য গোপন বার্তা
 ---
 
