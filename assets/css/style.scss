@@ -1,0 +1,52 @@
+@import "minima";
+
+body {
+    font-family: 'Noto Sans Bengali', sans-serif;
+    line-height: 1.6;
+    color: #333;
+}
+
+header {
+    background-color: #f8f9fa;
+    padding: 2rem 0;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+header h1 {
+    margin: 0;
+}
+
+header a {
+    color: #333;
+    text-decoration: none;
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+
+.post {
+    margin-bottom: 3rem;
+    padding: 1rem;
+    border: 1px solid #eee;
+    border-radius: 5px;
+}
+
+.post-header {
+    margin-bottom: 1rem;
+}
+
+.post-date {
+    color: #666;
+    font-size: 0.9rem;
+}
+
+footer {
+    text-align: center;
+    padding: 2rem 0;
+    margin-top: 3rem;
+    border-top: 1px solid #eee;
+} 
